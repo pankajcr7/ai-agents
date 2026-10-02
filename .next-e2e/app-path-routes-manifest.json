@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/app/page": "/app",
+  "/favicon.ico/route": "/favicon.ico",
+  "/onboarding/page": "/onboarding",
+  "/page": "/",
+  "/sign-in/page": "/sign-in",
+  "/sign-up/page": "/sign-up",
+  "/w/[slug]/organization/page": "/w/[slug]/organization",
+  "/w/[slug]/page": "/w/[slug]",
+  "/w/[slug]/projects/[pid]/page": "/w/[slug]/projects/[pid]",
+  "/w/[slug]/projects/page": "/w/[slug]/projects",
+  "/w/[slug]/providers/page": "/w/[slug]/providers",
+  "/w/[slug]/settings/page": "/w/[slug]/settings"
+}

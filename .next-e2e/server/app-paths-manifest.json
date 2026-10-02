@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/app/page": "app/app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/page": "app/page.js",
+  "/sign-in/page": "app/sign-in/page.js",
+  "/sign-up/page": "app/sign-up/page.js",
+  "/w/[slug]/organization/page": "app/w/[slug]/organization/page.js",
+  "/w/[slug]/page": "app/w/[slug]/page.js",
+  "/w/[slug]/projects/[pid]/page": "app/w/[slug]/projects/[pid]/page.js",
+  "/w/[slug]/projects/page": "app/w/[slug]/projects/page.js",
+  "/w/[slug]/providers/page": "app/w/[slug]/providers/page.js",
+  "/w/[slug]/settings/page": "app/w/[slug]/settings/page.js"
+}
